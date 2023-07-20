@@ -32,7 +32,6 @@ java -jar sys2db.jar readconnection <limit>
 ```
 
 - insert new elements in the table
-- select elements in the table with line limit
 you can use the command next:
 ```sh
 java -jar sys2db.jar newconnection <first_name>
